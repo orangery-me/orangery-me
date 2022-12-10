@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orangery-me
 - I'm a newbie : >
-- I’m currently learning writing console programs
+- I’m currently learning writing console application
 - Direct: dinhbaochauthi99@gmail.com
 - See ya !
 
