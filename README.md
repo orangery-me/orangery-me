@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orangery-me
-- I'm a newbie : >
+- I'm a newbie - freshman at Da Nang university of Science and Technology
 - Mail: dinhbaochauthi99@gmail.com
 
 <!---
