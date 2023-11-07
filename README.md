@@ -1,6 +1,6 @@
   # 👋 Hi, I’m @orangery-me 
 
-  ### About me:
+  ### 🍊 About me:
   -  Student at Da Nang university of Science and Technology 
   -  I'm currently learning Mobile app development
   - You can reach me at :mailbox: Mail: dinhbaochauthi99@gmail.com and [![Facebook Badge](https://img.shields.io/badge/Facebook-F-blue
@@ -18,9 +18,13 @@
 </div>
 
   ### :fire: My Stats :
+  title_color: "fff",
+    icon_color: "79ff97",
+    text_color: "9f9f9f",
+    bg_color: "151515",
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=orangery-me&theme=dracula&hide_current_streak=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangery-me&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangery-me&layout=donut)](https://github.com/anuraghazra/github-readme-stats&title_color=fff&text_color=9f9f9f&bg_color=151515)
 
 <!---
 orangery-me/orangery-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
