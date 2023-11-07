@@ -18,13 +18,9 @@
 </div>
 
   ### :fire: My Stats :
-  title_color: "fff",
-    icon_color: "79ff97",
-    text_color: "9f9f9f",
-    bg_color: "151515",
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=orangery-me&theme=dracula&hide_current_streak=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangery-me&layout=donut)](https://github.com/anuraghazra/github-readme-stats&title_color=fff&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangery-me&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 orangery-me/orangery-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
