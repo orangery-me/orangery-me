@@ -2,7 +2,6 @@
 
   ### 🍊 About me:
   -  Student at Da Nang university of Science and Technology 
-  -  I'm currently learning Mobile app development
   - You can reach me at :mailbox: Mail: dinhbaochauthi99@gmail.com and [![Facebook Badge](https://img.shields.io/badge/Facebook-F-blue
 )](https://www.facebook.com/ijwmtdnt)
   
