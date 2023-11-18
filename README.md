@@ -9,24 +9,10 @@
   - You can reach me at :mailbox: Mail: dinhbaochauthi99@gmail.com and [![Facebook Badge](https://img.shields.io/badge/Facebook-F-blue
 )](https://www.facebook.com/ijwmtdnt)
 
-<br></br>
-
-  ### 🐕‍🦺 Put them here for decorative purpose
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40"/>
-</div
 
 <hr class="dashed">
 
 <hr>
-  <br></br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=3001&color=F71ED2&center=true&multiline=true&random=false&width=435&lines=Whatever%2C+it's+great+to+see+you+here+" alt="Typing SVG" />
   </a>
