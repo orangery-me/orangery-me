@@ -4,7 +4,6 @@
 
   ### 🍊 About me:
   - I'm currently a student at Da Nang university of Science and Technology
-  - I would love to learn new things from you all
   - You can reach me at :mailbox: Mail: dinhbaochauthi99@gmail.com and [![Facebook Badge](https://img.shields.io/badge/Facebook-F-blue
 )](https://www.facebook.com/ijwmtdnt)
 
